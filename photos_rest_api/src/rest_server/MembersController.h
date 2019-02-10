@@ -1,0 +1,14 @@
+//
+// Created by Lukas_PC on 10/02/2019.
+//
+
+#ifndef PHOTOS_REST_API_MEMBERSCONTROLLER_H
+#define PHOTOS_REST_API_MEMBERSCONTROLLER_H
+
+
+class MembersController {
+
+};
+
+
+#endif //PHOTOS_REST_API_MEMBERSCONTROLLER_H
