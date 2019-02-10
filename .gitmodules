@@ -1,0 +1,3 @@
+[submodule "photos_rest_api/external_libraries/Catch2"]
+	path = photos_rest_api/external_libraries/Catch2
+	url = https://github.com/catchorg/Catch2.git
