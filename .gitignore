@@ -1,0 +1,10 @@
+# Directories
+.vs/
+bin/
+bin-int/
+
+photos_rest_api/.idea/
+photos_rest_api/cmake-build-debug
+
+# Files
+*.user

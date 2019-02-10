@@ -1,3 +1,0 @@
-C:/git_repositories/cpp_rest_api/photos_rest_api/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/git_repositories/cpp_rest_api/photos_rest_api/cmake-build-debug/CMakeFiles/photos_rest_api.dir
-C:/git_repositories/cpp_rest_api/photos_rest_api/cmake-build-debug/CMakeFiles/rebuild_cache.dir
