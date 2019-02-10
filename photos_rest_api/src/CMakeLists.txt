@@ -6,5 +6,5 @@ add_library(rest_server_lib STATIC rest_server/PhotosController.cpp rest_server/
 target_include_directories(rest_server_lib PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 # The main program
-add_executable(prog main.cpp)
-target_link_libraries(prog PRIVATE rest_server_lib)
+add_executable(rest_server_main main.cpp)
+target_link_libraries(rest_server_main PRIVATE rest_server_lib)

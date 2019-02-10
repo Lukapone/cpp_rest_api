@@ -1,5 +1,6 @@
-//
-// Created by Lukas_PC on 10/02/2019.
-//
 
-#include "testmain.h"
+
+
+#define CATCH_CONFIG_MAIN  // This tells Catch to provide a main() - only do this in one cpp file
+#include <catch2/catch.hpp>
+
