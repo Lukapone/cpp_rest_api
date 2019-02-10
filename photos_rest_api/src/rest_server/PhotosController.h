@@ -7,7 +7,12 @@
 
 
 class PhotosController {
+    int num_photos;
 
+public:
+    explicit PhotosController(int num_photos);
+
+    int getNum_photos() const;
 };
 
 
